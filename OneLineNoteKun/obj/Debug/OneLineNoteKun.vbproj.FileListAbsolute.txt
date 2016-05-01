@@ -1,0 +1,11 @@
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\obj\Debug\OneLineNoteKun.vbprojResolveAssemblyReference.cache
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\obj\Debug\OneLineNotekun.Form1.resources
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\obj\Debug\OneLineNotekun.Resources.resources
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\obj\Debug\OneLineNoteKun.vbproj.GenerateResource.Cache
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\bin\Debug\OneLineNoteKun.exe.config
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\bin\Debug\OneLineNoteKun.exe
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\bin\Debug\OneLineNoteKun.pdb
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\bin\Debug\OneLineNoteKun.xml
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\obj\Debug\OneLineNoteKun.exe
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\obj\Debug\OneLineNoteKun.xml
+C:\Users\susan\Documents\Visual Studio 2015\Projects\OneLineNoteKun\OneLineNoteKun\obj\Debug\OneLineNoteKun.pdb
